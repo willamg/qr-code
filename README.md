@@ -6,7 +6,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  file:///home/williamgonzalez/Downloads/barclays/qr-code.png
+ ![qr-code](https://user-images.githubusercontent.com/62850410/184552468-7ec8a4ce-def2-4b59-8d06-b00ad325c489.png)
+
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
