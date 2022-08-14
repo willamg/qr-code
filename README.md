@@ -38,9 +38,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-This was my first time doing any frontend development since college. I reviewed basic CSS and HTML to get this projtect working.
+This was my first time doing any frontend development since college. I reviewed basic CSS and HTML to get this project working.
 
-Importing google fonts was easy once you use the import function they provide for you! Also flexbox was a challenge but overall a nice, challenging, first project!
 
 ### Continued development
 
